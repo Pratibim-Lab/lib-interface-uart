@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/LT1080:LT1080",
+  "name": "LT1080",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/LT1080.kicad_sym",
+  "description": "Dual RS232 driver/receiver, 5V supply, 120kb/s",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/10801fe.pdf",
+  "keywords": "rs232 uart transceiver",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/LT1080/",
+  "part_path": "parts/LT1080",
+  "symbol_file": "parts/LT1080/LT1080.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:14.939Z"
+}

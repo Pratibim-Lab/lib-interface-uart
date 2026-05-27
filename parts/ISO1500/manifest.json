@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/ISO1500:ISO1500",
+  "name": "ISO1500",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/ISO1500.kicad_sym",
+  "description": "Half duplex RS-485/RS-422 transceiver, 3-kVRMS Isolated, SSOP-16",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/iso1500.pdf",
+  "keywords": "RS-485 RS422 transceiver isolated",
+  "footprint": "Package_SO:SSOP-16_3.9x4.9mm_P0.635mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/ISO1500/",
+  "part_path": "parts/ISO1500",
+  "symbol_file": "parts/ISO1500/ISO1500.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:14.926Z"
+}

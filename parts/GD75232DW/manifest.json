@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/GD75232DW:GD75232DW",
+  "name": "GD75232DW",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/GD75232DW.kicad_sym",
+  "description": "Multiple RS-232 Driver and Receiver, SOIC-20",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/gd75232.pdf",
+  "keywords": "RS232 UART Driver Receiver Interface",
+  "footprint": "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm",
+  "extends": "AZ75232M",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/GD75232DW/",
+  "part_path": "parts/GD75232DW",
+  "symbol_file": "parts/GD75232DW/GD75232DW.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:14.875Z"
+}

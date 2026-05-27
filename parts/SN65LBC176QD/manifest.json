@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/SN65LBC176QD:SN65LBC176QD",
+  "name": "SN65LBC176QD",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/SN65LBC176QD.kicad_sym",
+  "description": "Differential bus transceiver, SOIC-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/sn75lbc176.pdf",
+  "keywords": "Differential bus transceiver",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "SN75LBC176D",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/SN65LBC176QD/",
+  "part_path": "parts/SN65LBC176QD",
+  "symbol_file": "parts/SN65LBC176QD/SN65LBC176QD.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:15.328Z"
+}

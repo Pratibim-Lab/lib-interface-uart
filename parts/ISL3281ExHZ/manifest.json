@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/ISL3281ExHZ:ISL3281ExHZ",
+  "name": "ISL3281ExHZ",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/ISL3281ExHZ.kicad_sym",
+  "description": "RS485, RS422, 20Mbps Transceiver, 3.0V to 5.5V, SOT-23-6",
+  "datasheet": "https://www.renesas.com/us/en/www/doc/datasheet/isl3280e-81e-82e-83e-84e-85e.pdf",
+  "keywords": "Interface - Driver Receiver Transceiver",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/ISL3281ExHZ/",
+  "part_path": "parts/ISL3281ExHZ",
+  "symbol_file": "parts/ISL3281ExHZ/ISL3281ExHZ.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:14.902Z"
+}

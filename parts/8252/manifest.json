@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/8252:8252",
+  "name": "8252",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/8252.kicad_sym",
+  "description": "Universal Asynchronous Receiver/Transmitter, PDIP-28",
+  "datasheet": "",
+  "keywords": "UART Serial Interface",
+  "footprint": "Package_DIP:DIP-28_W15.24mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/8252/",
+  "part_path": "parts/8252",
+  "symbol_file": "parts/8252/8252.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:14.733Z"
+}

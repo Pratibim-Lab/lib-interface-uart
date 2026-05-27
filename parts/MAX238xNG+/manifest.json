@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/MAX238xNG+:MAX238xNG+",
+  "name": "MAX238xNG+",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/MAX238xNG+.kicad_sym",
+  "description": "Quad RS232 driver/receiver, 5V supply, 120kb/s, DIP-24",
+  "datasheet": "https://eu.mouser.com/datasheet/2/609/MAX220_MAX249-3127785.pdf",
+  "keywords": "rs232 uart transceiver line-driver",
+  "footprint": "Package_DIP:DIP-24_W7.62mm",
+  "extends": "MAX238xWG+",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/MAX238xNG+/",
+  "part_path": "parts/MAX238xNG+",
+  "symbol_file": "parts/MAX238xNG+/MAX238xNG+.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:15.099Z"
+}

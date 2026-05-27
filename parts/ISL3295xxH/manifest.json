@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/ISL3295xxH:ISL3295xxH",
+  "name": "ISL3295xxH",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/ISL3295xxH.kicad_sym",
+  "description": "RS485, RS422, 20Mbps Transceiver, 3.0V to 7V, Low-Power, SOT-23",
+  "datasheet": "https://www.renesas.com/sg/en/www/doc/datasheet/isl3295e-98e.pdf",
+  "keywords": "RS485 RS422 transceiver",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/ISL3295xxH/",
+  "part_path": "parts/ISL3295xxH",
+  "symbol_file": "parts/ISL3295xxH/ISL3295xxH.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:14.916Z"
+}

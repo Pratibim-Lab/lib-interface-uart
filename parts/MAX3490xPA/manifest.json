@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/MAX3490xPA:MAX3490xPA",
+  "name": "MAX3490xPA",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/MAX3490xPA.kicad_sym",
+  "description": "Full duplex RS-485/RS-422, 10 Mbps, slew-rate limited, no low-power shutdown, no with receiver/driver enable, 32 receiver drive capability, DIP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/MAX3483-MAX3491.pdf",
+  "keywords": "transceiver",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "ADM3490ExR",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/MAX3490xPA/",
+  "part_path": "parts/MAX3490xPA",
+  "symbol_file": "parts/MAX3490xPA/MAX3490xPA.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:15.188Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/THVD1451D:THVD1451D",
+  "name": "THVD1451D",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/THVD1451D.kicad_sym",
+  "description": "RS485 transceiver, 3.3-V to 5-V, 18-kV IEC ESD Protection, SOIC-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/thvd1451.pdf",
+  "keywords": "rs485 transceiver line driver",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/THVD1451D/",
+  "part_path": "parts/THVD1451D",
+  "symbol_file": "parts/THVD1451D/THVD1451D.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:15.509Z"
+}

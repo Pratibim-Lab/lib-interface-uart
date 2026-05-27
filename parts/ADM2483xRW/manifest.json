@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/ADM2483xRW:ADM2483xRW",
+  "name": "ADM2483xRW",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/ADM2483xRW.kicad_sym",
+  "description": "Isolated RS485/RS422 Transceiver, Half-Duplex, 500kbps, SOIC-16W",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/adm2483.pdf",
+  "keywords": "rs-485 rs-422 eia485 eia-485 eia422 eia-422 serial differential",
+  "footprint": "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/ADM2483xRW/",
+  "part_path": "parts/ADM2483xRW",
+  "symbol_file": "parts/ADM2483xRW/ADM2483xRW.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:14.828Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/SC16IS750xPW:SC16IS750xPW",
+  "name": "SC16IS750xPW",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/SC16IS750xPW.kicad_sym",
+  "description": "Single UART with I2C/SPI interface, 64 bytes of transmit and receive FIFOs, IrDA SIR built-in support, TSSOP-24",
+  "datasheet": "https://www.nxp.com/docs/en/data-sheet/SC16IS740_750_760.pdf",
+  "keywords": "UART I2C/SPI 64B FIFO IrDA SIR",
+  "footprint": "Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/SC16IS750xPW/",
+  "part_path": "parts/SC16IS750xPW",
+  "symbol_file": "parts/SC16IS750xPW/SC16IS750xPW.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:15.261Z"
+}

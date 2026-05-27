@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/ICL3232:ICL3232",
+  "name": "ICL3232",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/ICL3232.kicad_sym",
+  "description": "3.0V to 5.5V, Low-Power, up to 250kbps, True RS-232 Transceivers Using Four 0.1μF External Capacitors",
+  "datasheet": "http://www.intersil.com/content/dam/Intersil/documents/icl3/icl3221-22-23-32-41-43.pdf",
+  "keywords": "rs232 uart transceiver line-driver",
+  "footprint": "",
+  "extends": "MAX232",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/ICL3232/",
+  "part_path": "parts/ICL3232",
+  "symbol_file": "parts/ICL3232/ICL3232.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:14.885Z"
+}

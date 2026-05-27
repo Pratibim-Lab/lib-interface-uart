@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/MAX3284E:MAX3284E",
+  "name": "MAX3284E",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/MAX3284E.kicad_sym",
+  "description": "±15kV ESD-Protected 52Mbps, 3V to 5.5V RS-485/RS-422 True Fail-Safe Receivers, SOT23",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX3280E-MAX3284E.pdf",
+  "keywords": "RS-485 RS-422 True Fail-Safe Receivers 1/4 unit load receiver",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/MAX3284E/",
+  "part_path": "parts/MAX3284E",
+  "symbol_file": "parts/MAX3284E/MAX3284E.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:15.153Z"
+}

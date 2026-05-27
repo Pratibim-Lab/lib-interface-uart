@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/ISL3298xxRT:ISL3298xxRT",
+  "name": "ISL3298xxRT",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/ISL3298xxRT.kicad_sym",
+  "description": "RS485, RS422, 20Mbps Transceiver, 3.0V to 7V, Low-Power, TDFN-8",
+  "datasheet": "https://www.renesas.com/sg/en/www/doc/datasheet/isl3295e-98e.pdf",
+  "keywords": "RS485 RS422 transceiver",
+  "footprint": "Package_DFN_QFN:TDFN-8-1EP_3x2mm_P0.5mm_EP1.80x1.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/ISL3298xxRT/",
+  "part_path": "parts/ISL3298xxRT",
+  "symbol_file": "parts/ISL3298xxRT/ISL3298xxRT.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:14.919Z"
+}

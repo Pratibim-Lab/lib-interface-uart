@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/AZ75232M:AZ75232M",
+  "name": "AZ75232M",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/AZ75232M.kicad_sym",
+  "description": "RS232 interface IC, 3 drivers, 5 receivers, 3.3V/5V Vcc supply, bipolar Vdd/Vss supply, 120kb/s, SOIC-20",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/AZ75232.pdf",
+  "keywords": "rs232 uart transceiver line-driver",
+  "footprint": "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/AZ75232M/",
+  "part_path": "parts/AZ75232M",
+  "symbol_file": "parts/AZ75232M/AZ75232M.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:14.864Z"
+}

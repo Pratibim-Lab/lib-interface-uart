@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/MAX3232:MAX3232",
+  "name": "MAX3232",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/MAX3232.kicad_sym",
+  "description": "3.0V to 5.5V, Low-Power, up to 1Mbps, True RS-232 Transceivers Using Four 0.1μF External Capacitors",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX3222-MAX3241.pdf",
+  "keywords": "rs232 uart transceiver line-driver",
+  "footprint": "",
+  "extends": "MAX232",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/MAX3232/",
+  "part_path": "parts/MAX3232",
+  "symbol_file": "parts/MAX3232/MAX3232.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:15.147Z"
+}

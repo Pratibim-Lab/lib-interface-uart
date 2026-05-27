@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/SP3485CP:SP3485CP",
+  "name": "SP3485CP",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/SP3485CP.kicad_sym",
+  "description": "3.3V Low Power Half-Duplex RS-485 Transceiver 10Mbps, DIP8",
+  "datasheet": "http://www.icbase.com/pdf/SPX/SPX00480106.pdf",
+  "keywords": "Low Power Half-Duplex RS-485 Transceiver 10Mbps",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "LTC2850xS8",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/SP3485CP/",
+  "part_path": "parts/SP3485CP",
+  "symbol_file": "parts/SP3485CP/SP3485CP.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:15.409Z"
+}

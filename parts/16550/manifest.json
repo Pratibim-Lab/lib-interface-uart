@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/16550:16550",
+  "name": "16550",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/16550.kicad_sym",
+  "description": "PC16550D, Universal Asynchronous Receiver/Transmitter with FIFOs, PDIP-40",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/pc16550d.pdf",
+  "keywords": "1ch UART FIFO",
+  "footprint": "Package_DIP:DIP-40_W15.24mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/16550/",
+  "part_path": "parts/16550",
+  "symbol_file": "parts/16550/16550.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:14.718Z"
+}

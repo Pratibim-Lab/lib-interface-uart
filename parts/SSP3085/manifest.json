@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/SSP3085:SSP3085",
+  "name": "SSP3085",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/SSP3085.kicad_sym",
+  "description": "RS-485, RS-422 Half duplex 500kbps transceiver, 15kV ESD protected, 5V operating voltage, SOIC-8",
+  "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2404071515_Shanghai-Siproin-Microelectronics-SSP3085_C410986.pdf",
+  "keywords": "RS485 RS422 transceiver half duplex Siproin",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "LTC2850xS8",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/SSP3085/",
+  "part_path": "parts/SSP3085",
+  "symbol_file": "parts/SSP3085/SSP3085.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:15.427Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/THVD8000:THVD8000",
+  "name": "THVD8000",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/THVD8000.kicad_sym",
+  "description": "RS-485 500 kbps Transceiver with OOK Modulation for Power Line Communication, 3V-5.5V supply, -7 to +12V common mode range, SOT-23-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/thvd8000.pdf",
+  "keywords": "RS485 half-duplex power-line-communication PLC powerline",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-8",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/THVD8000/",
+  "part_path": "parts/THVD8000",
+  "symbol_file": "parts/THVD8000/THVD8000.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:15.518Z"
+}

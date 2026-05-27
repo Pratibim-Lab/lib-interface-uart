@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/ADM1485xRZ:ADM1485xRZ",
+  "name": "ADM1485xRZ",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/ADM1485xRZ.kicad_sym",
+  "description": "5V, Low Power, EIA RS-485 Transceiver, SOIC-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/adm1485.pdf",
+  "keywords": "RS485 transceiver",
+  "footprint": "",
+  "extends": "LTC2850xS8",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/ADM1485xRZ/",
+  "part_path": "parts/ADM1485xRZ",
+  "symbol_file": "parts/ADM1485xRZ/ADM1485xRZ.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:14.744Z"
+}

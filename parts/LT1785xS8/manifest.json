@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/LT1785xS8:LT1785xS8",
+  "name": "LT1785xS8",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/LT1785xS8.kicad_sym",
+  "description": "RS-485, RS-422 Half duplex 250kbps transceiver, SOIC-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/LT1785-1785A-1791-1791A.pdf",
+  "keywords": "RS485 RS422 transceiver half duplex",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "LTC2850xS8",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/LT1785xS8/",
+  "part_path": "parts/LT1785xS8",
+  "symbol_file": "parts/LT1785xS8/LT1785xS8.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:14.955Z"
+}

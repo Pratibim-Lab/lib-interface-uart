@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/MAX13432EETD:MAX13432EETD",
+  "name": "MAX13432EETD",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/MAX13432EETD.kicad_sym",
+  "description": "RS485 transceiver, full duplex, dual supply, receiver/driver enable, 500kbps, DFN-14 package",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX13430E-MAX13433E.pdf",
+  "keywords": "rs485 transceiver",
+  "footprint": "Package_DFN_QFN:DFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/MAX13432EETD/",
+  "part_path": "parts/MAX13432EETD",
+  "symbol_file": "parts/MAX13432EETD/MAX13432EETD.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:15.058Z"
+}

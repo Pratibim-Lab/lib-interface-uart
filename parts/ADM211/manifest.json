@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/ADM211:ADM211",
+  "name": "ADM211",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/ADM211.kicad_sym",
+  "description": "0.1 μF, 5V powered CMOS RS-232 120kb/s transceiver with 4 drivers and 5 receivers (tx/rx: 4/5), shutdown / enable pins, SOIC-28 / SSOP-28",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADM206_207_208_211_213.pdf",
+  "keywords": "UART RS232",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/ADM211/",
+  "part_path": "parts/ADM211",
+  "symbol_file": "parts/ADM211/ADM211.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:14.795Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/GD75232N:GD75232N",
+  "name": "GD75232N",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/GD75232N.kicad_sym",
+  "description": "Multiple RS-232 Driver and Receiver, DIP-20",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/gd75232.pdf",
+  "keywords": "RS232 UART Driver Receiver Interface",
+  "footprint": "Package_DIP:DIP-20_W7.62mm",
+  "extends": "AZ75232M",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/GD75232N/",
+  "part_path": "parts/GD75232N",
+  "symbol_file": "parts/GD75232N/GD75232N.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:14.878Z"
+}

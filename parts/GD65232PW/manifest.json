@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/GD65232PW:GD65232PW",
+  "name": "GD65232PW",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/GD65232PW.kicad_sym",
+  "description": "Multiple RS-232 Driver and Receiver, TSSOP-20",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/gd75232.pdf",
+  "keywords": "RS232 UART Driver Receiver Interface",
+  "footprint": "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm",
+  "extends": "AZ75232M",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/GD65232PW/",
+  "part_path": "parts/GD65232PW",
+  "symbol_file": "parts/GD65232PW/GD65232PW.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:14.870Z"
+}

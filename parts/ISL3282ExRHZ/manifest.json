@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/ISL3282ExRHZ:ISL3282ExRHZ",
+  "name": "ISL3282ExRHZ",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/ISL3282ExRHZ.kicad_sym",
+  "description": "RS485, RS422, 20Mbps Transceiver, 3.0V to 5.5V, TDFN-8",
+  "datasheet": "https://www.renesas.com/us/en/www/doc/datasheet/isl3280e-81e-82e-83e-84e-85e.pdf",
+  "keywords": "Interface Driver Receiver Transceiver",
+  "footprint": "Package_DFN_QFN:TDFN-8-1EP_3x2mm_P0.5mm_EP1.80x1.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/ISL3282ExRHZ/",
+  "part_path": "parts/ISL3282ExRHZ",
+  "symbol_file": "parts/ISL3282ExRHZ/ISL3282ExRHZ.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:14.905Z"
+}

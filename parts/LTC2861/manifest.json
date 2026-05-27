@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/LTC2861:LTC2861",
+  "name": "LTC2861",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/LTC2861.kicad_sym",
+  "description": "20Mbps RS485 transceiver with tntegrated switchable termination",
+  "datasheet": "linear-tec\\\\ltc2859-2861.pdf",
+  "keywords": "RS485",
+  "footprint": "Package_SO:SSOP-28_5.3x10.2mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/LTC2861/",
+  "part_path": "parts/LTC2861",
+  "symbol_file": "parts/LTC2861/LTC2861.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:15.049Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/SN75LBC176P:SN75LBC176P",
+  "name": "SN75LBC176P",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/SN75LBC176P.kicad_sym",
+  "description": "Differential bus transceiver, DIP-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/sn75lbc176.pdf",
+  "keywords": "Differential bus transceiver",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/SN75LBC176P/",
+  "part_path": "parts/SN75LBC176P",
+  "symbol_file": "parts/SN75LBC176P/SN75LBC176P.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:15.370Z"
+}

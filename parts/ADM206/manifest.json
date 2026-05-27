@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/ADM206:ADM206",
+  "name": "ADM206",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/ADM206.kicad_sym",
+  "description": "0.1 μF, 5V powered CMOS RS-232 120kb/s transceiver with 4 drivers and 3 receivers (tx/rx: 4/3), shutdown / enable pins, DIP-24 (300 mil) / SOIC-24 / SSOP-24",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADM206_207_208_211_213.pdf",
+  "keywords": "UART RS232",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/ADM206/",
+  "part_path": "parts/ADM206",
+  "symbol_file": "parts/ADM206/ADM206.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:14.767Z"
+}

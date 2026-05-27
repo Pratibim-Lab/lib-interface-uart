@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/SN65HVD1781:SN65HVD1781",
+  "name": "SN65HVD1781",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/SN65HVD1781.kicad_sym",
+  "description": "Fault-Protected RS-485 Transceivers With 3.3-V to 5-V Operation, up to 1 Mbps, up to 320, SOIC-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/sn65hvd1781.pdf",
+  "keywords": "rs485 transceiver",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "SN65HVD11HD",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/SN65HVD1781/",
+  "part_path": "parts/SN65HVD1781",
+  "symbol_file": "parts/SN65HVD1781/SN65HVD1781.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:15.306Z"
+}

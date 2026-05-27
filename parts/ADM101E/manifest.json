@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/ADM101E:ADM101E",
+  "name": "ADM101E",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/ADM101E.kicad_sym",
+  "description": "Single RS232 driver/receiver, 5V supply, 460kb/s",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADM101E.pdf",
+  "keywords": "rs232 uart transceiver line-driver",
+  "footprint": "Package_SO:MSOP-10_3x3mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/ADM101E/",
+  "part_path": "parts/ADM101E",
+  "symbol_file": "parts/ADM101E/ADM101E.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:14.738Z"
+}

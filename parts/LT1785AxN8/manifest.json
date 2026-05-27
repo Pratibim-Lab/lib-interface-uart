@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/LT1785AxN8:LT1785AxN8",
+  "name": "LT1785AxN8",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/LT1785AxN8.kicad_sym",
+  "description": "RS-485, RS-422 Half duplex 250kbps transceiver, fail-safe receiver, DIP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/LT1785-1785A-1791-1791A.pdf",
+  "keywords": "RS485 RS422 transceiver half duplex",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "LT1785xN8",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/LT1785AxN8/",
+  "part_path": "parts/LT1785AxN8",
+  "symbol_file": "parts/LT1785AxN8/LT1785AxN8.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:14.943Z"
+}

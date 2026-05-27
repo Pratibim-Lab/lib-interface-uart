@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/ADM1491EBR:ADM1491EBR",
+  "name": "ADM1491EBR",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/ADM1491EBR.kicad_sym",
+  "description": "RS-485, RS-422 full duplex 16Mbps transceiver, SOIC-14",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADM1490E_1491E.pdf",
+  "keywords": "RS485 RS422 transceiver full duplex",
+  "footprint": "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/ADM1491EBR/",
+  "part_path": "parts/ADM1491EBR",
+  "symbol_file": "parts/ADM1491EBR/ADM1491EBR.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:14.752Z"
+}

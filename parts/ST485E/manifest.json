@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/ST485E:ST485E",
+  "name": "ST485E",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/ST485E.kicad_sym",
+  "description": "Half duplex RS-485/RS-422, 5 Mbps, ±15kV ESD, 5V supply, 256 bus load, SOIC-8",
+  "datasheet": "http://www.st.com/resource/en/datasheet/st485eb.pdf",
+  "keywords": "ST-Microelectronics half-duplex",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "LTC2850xS8",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/ST485E/",
+  "part_path": "parts/ST485E",
+  "symbol_file": "parts/ST485E/ST485E.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:15.452Z"
+}

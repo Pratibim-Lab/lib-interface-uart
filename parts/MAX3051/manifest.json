@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/MAX3051:MAX3051",
+  "name": "MAX3051",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/MAX3051.kicad_sym",
+  "description": "High-Speed CAN Transceiver, 1Mbps, 3.3V supply",
+  "datasheet": "http://datasheets.maximintegrated.com/en/ds/MAX3051.pdf",
+  "keywords": "High-Speed CAN Transceiver",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/MAX3051/",
+  "part_path": "parts/MAX3051",
+  "symbol_file": "parts/MAX3051/MAX3051.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:15.108Z"
+}

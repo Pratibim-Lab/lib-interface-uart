@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/LTC2857xMS8-2:LTC2857xMS8-2",
+  "name": "LTC2857xMS8-2",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/LTC2857xMS8-2.kicad_sym",
+  "description": "RS-485, RS-422 Full duplex 250kbps transceiver, MSOP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/285678fg.pdf",
+  "keywords": "RS485 RS422 transceiver full duplex",
+  "footprint": "Package_SO:MSOP-8_3x3mm_P0.65mm",
+  "extends": "LTC2851xMS8",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/LTC2857xMS8-2/",
+  "part_path": "parts/LTC2857xMS8-2",
+  "symbol_file": "parts/LTC2857xMS8-2/LTC2857xMS8-2.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:15.028Z"
+}

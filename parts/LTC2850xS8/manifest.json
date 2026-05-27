@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/LTC2850xS8:LTC2850xS8",
+  "name": "LTC2850xS8",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/LTC2850xS8.kicad_sym",
+  "description": "RS-485, RS-422 Half-duplex 20Mbps transceiver, SOIC-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/285012fe.pdf",
+  "keywords": "RS485 RS422 transceiver half duplex",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/LTC2850xS8/",
+  "part_path": "parts/LTC2850xS8",
+  "symbol_file": "parts/LTC2850xS8/LTC2850xS8.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:14.980Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/ADM3485xR:ADM3485xR",
+  "name": "ADM3485xR",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/ADM3485xR.kicad_sym",
+  "description": "3.3V, Slew Rate Limited, Half- and Full-Duplex, RS-485/RS-422 Transceiver, SOIC-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/adm3483_3485_3488_3490_3491.pdf",
+  "keywords": "RS485 transceiver",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "LTC2850xS8",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/ADM3485xR/",
+  "part_path": "parts/ADM3485xR",
+  "symbol_file": "parts/ADM3485xR/ADM3485xR.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:14.852Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/SN75176AP:SN75176AP",
+  "name": "SN75176AP",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/SN75176AP.kicad_sym",
+  "description": "Differential RS-422/RS-485 bus transceiver, DIP-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/sn75176a.pdf",
+  "keywords": "Differential bus transceiver",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "SN75LBC176P",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/SN75176AP/",
+  "part_path": "parts/SN75176AP",
+  "symbol_file": "parts/SN75176AP/SN75176AP.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:15.352Z"
+}

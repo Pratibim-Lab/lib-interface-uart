@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/SC16IS760xBS:SC16IS760xBS",
+  "name": "SC16IS760xBS",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/SC16IS760xBS.kicad_sym",
+  "description": "Single UART with I2C/SPI interface, 64 bytes of transmit and receive FIFOs, IrDA SIR built-in support, HVQFN-24",
+  "datasheet": "https://www.nxp.com/docs/en/data-sheet/SC16IS740_750_760.pdf",
+  "keywords": "UART I2C/SPI 64B FIFO IrDA SIR",
+  "footprint": "Package_DFN_QFN:HVQFN-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm",
+  "extends": "SC16IS750xBS",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/SC16IS760xBS/",
+  "part_path": "parts/SC16IS760xBS",
+  "symbol_file": "parts/SC16IS760xBS/SC16IS760xBS.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:15.277Z"
+}

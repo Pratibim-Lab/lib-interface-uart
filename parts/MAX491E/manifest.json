@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/MAX491E:MAX491E",
+  "name": "MAX491E",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/MAX491E.kicad_sym",
+  "description": "Full duplex RS-485/RS-422, 2.5 Mbps, ±15kV electro-static discharge (ESD) protection, no slew-rate limited, no low-power shutdown, with receiver/driver enable, 32 receiver drive capability, 0 to +70 degree Celsius, DIP-14 and SOIC-14",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX1487E-MAX491E.pdf",
+  "keywords": "transceiver",
+  "footprint": "",
+  "extends": "MAX489E",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/MAX491E/",
+  "part_path": "parts/MAX491E",
+  "symbol_file": "parts/MAX491E/MAX491E.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:15.229Z"
+}

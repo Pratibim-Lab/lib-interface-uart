@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/ADM2484E:ADM2484E",
+  "name": "ADM2484E",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/ADM2484E.kicad_sym",
+  "description": "Isolated RS485/RS422 Transceiver, Half-/Full-Duplex, 500kbps,SOIC-16W",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADM2484E.pdf",
+  "keywords": "RS485 Transceiver RS422 Transceiver",
+  "footprint": "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/ADM2484E/",
+  "part_path": "parts/ADM2484E",
+  "symbol_file": "parts/ADM2484E/ADM2484E.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:14.832Z"
+}

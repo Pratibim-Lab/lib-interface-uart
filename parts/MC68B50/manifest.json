@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/MC68B50:MC68B50",
+  "name": "MC68B50",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/MC68B50.kicad_sym",
+  "description": "Asynchronous Communications Interface Adapter 2MHz, DIP-40",
+  "datasheet": "http://pdf.datasheetcatalog.com/datasheet/motorola/MC6850.pdf",
+  "keywords": "ACIA",
+  "footprint": "Package_DIP:DIP-24_W15.24mm",
+  "extends": "MC6850",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/MC68B50/",
+  "part_path": "parts/MC68B50",
+  "symbol_file": "parts/MC68B50/MC68B50.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:15.243Z"
+}

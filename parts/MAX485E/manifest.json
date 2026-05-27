@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/MAX485E:MAX485E",
+  "name": "MAX485E",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/MAX485E.kicad_sym",
+  "description": "Half duplex RS-485/RS-422, 2.5 Mbps, ±15kV electro-static discharge (ESD) protection, no slew-rate, no low-power shutdown, with receiver/driver enable, 32 receiver drive capability, DIP-8 and SOIC-8",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX1487E-MAX491E.pdf",
+  "keywords": "transceiver",
+  "footprint": "",
+  "extends": "MAX481E",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/MAX485E/",
+  "part_path": "parts/MAX485E",
+  "symbol_file": "parts/MAX485E/MAX485E.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:15.207Z"
+}

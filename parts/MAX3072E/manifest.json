@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/MAX3072E:MAX3072E",
+  "name": "MAX3072E",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/MAX3072E.kicad_sym",
+  "description": "+3.3V, ±15kV ESD-Protected, Fail-Safe, Hot-Swap, RS-485/RS-422 Transceivers, SOIC-8",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX3070E-MAX3079E.pdf",
+  "keywords": "Low Power Half-Duplex RS-485 RS-422 Transceiver",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "LTC2850xS8",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/MAX3072E/",
+  "part_path": "parts/MAX3072E",
+  "symbol_file": "parts/MAX3072E/MAX3072E.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:15.113Z"
+}

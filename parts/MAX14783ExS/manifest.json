@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/MAX14783ExS:MAX14783ExS",
+  "name": "MAX14783ExS",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/MAX14783ExS.kicad_sym",
+  "description": "High-Speed 3.3V/5V RS-485/RS-422 Transceiver with ±35kV HBM ESD Protection, SOIC8",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX14783E.pdf",
+  "keywords": "High-Speed 3.3V/5V RS-485/RS-422 Transceiver ESD 42Mbps",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/MAX14783ExS/",
+  "part_path": "parts/MAX14783ExS",
+  "symbol_file": "parts/MAX14783ExS/MAX14783ExS.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:15.071Z"
+}

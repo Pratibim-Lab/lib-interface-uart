@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/LTC2856xMS8-1:LTC2856xMS8-1",
+  "name": "LTC2856xMS8-1",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/LTC2856xMS8-1.kicad_sym",
+  "description": "RS-485, RS-422 Half duplex 20Mbps transceiver, MSOP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/285678fg.pdf",
+  "keywords": "RS485 RS422 transceiver half duplex",
+  "footprint": "Package_SO:MSOP-8_3x3mm_P0.65mm",
+  "extends": "LTC2850xMS8",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/LTC2856xMS8-1/",
+  "part_path": "parts/LTC2856xMS8-1",
+  "symbol_file": "parts/LTC2856xMS8-1/LTC2856xMS8-1.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:15.012Z"
+}

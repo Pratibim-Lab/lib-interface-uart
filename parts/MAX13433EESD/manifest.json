@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/MAX13433EESD:MAX13433EESD",
+  "name": "MAX13433EESD",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/MAX13433EESD.kicad_sym",
+  "description": "RS485 transceiver, full duplex, dual supply, receiver/driver enable, 16Mbps, SOIC-14 package",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX13430E-MAX13433E.pdf",
+  "keywords": "rs485 transceiver",
+  "footprint": "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm",
+  "extends": "MAX13432EESD",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/MAX13433EESD/",
+  "part_path": "parts/MAX13433EESD",
+  "symbol_file": "parts/MAX13433EESD/MAX13433EESD.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:15.063Z"
+}

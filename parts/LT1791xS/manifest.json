@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/LT1791xS:LT1791xS",
+  "name": "LT1791xS",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/LT1791xS.kicad_sym",
+  "description": "RS-485, RS-422 Full duplex 250kbps transceiver, SOIC-14",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/LT1785-1785A-1791-1791A.pdf",
+  "keywords": "RS485 RS422 transceiver full duplex",
+  "footprint": "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm",
+  "extends": "LTC2852xS",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/LT1791xS/",
+  "part_path": "parts/LT1791xS",
+  "symbol_file": "parts/LT1791xS/LT1791xS.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:14.970Z"
+}

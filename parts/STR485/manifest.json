@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/STR485:STR485",
+  "name": "STR485",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/STR485.kicad_sym",
+  "description": "RS-485, RS-422, half duplex transceiver, selectable speed 250 kbps or up to 20 Mbps, DFN-10 (VSON-10)",
+  "datasheet": "https://www.st.com/resource/en/datasheet/str485.pdf",
+  "keywords": "RS485 RS422 transceiver half duplex",
+  "footprint": "Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.646x3.1mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/STR485/",
+  "part_path": "parts/STR485",
+  "symbol_file": "parts/STR485/STR485.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:15.456Z"
+}

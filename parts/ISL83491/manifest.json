@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/ISL83491:ISL83491",
+  "name": "ISL83491",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/ISL83491.kicad_sym",
+  "description": "10Mbps RS485/RS422 transceiver, full duplex, receiver/driver enable, low power shutdown",
+  "datasheet": "http://www.intersil.com/content/dam/Intersil/documents/isl8/isl83483-85-88-90-91.pdf",
+  "keywords": "RS485 RS422 transceiver full duplex",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/ISL83491/",
+  "part_path": "parts/ISL83491",
+  "symbol_file": "parts/ISL83491/ISL83491.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:14.922Z"
+}

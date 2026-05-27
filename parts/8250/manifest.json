@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/8250:8250",
+  "name": "8250",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/8250.kicad_sym",
+  "description": "PC8250A, Universal Asynchronous Receiver/Transmitter, PDIP-40",
+  "datasheet": "",
+  "keywords": "1ch UART",
+  "footprint": "Package_DIP:DIP-40_W15.24mm",
+  "extends": "16450",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/8250/",
+  "part_path": "parts/8250",
+  "symbol_file": "parts/8250/8250.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:14.727Z"
+}

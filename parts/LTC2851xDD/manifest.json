@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/LTC2851xDD:LTC2851xDD",
+  "name": "LTC2851xDD",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/LTC2851xDD.kicad_sym",
+  "description": "RS-485, RS-422 Full duplex 20Mbps transceiver, DFN-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/285012fe.pdf",
+  "keywords": "RS485 RS422 transceiver full duplex",
+  "footprint": "Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.5mm_EP1.66x2.38mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/LTC2851xDD/",
+  "part_path": "parts/LTC2851xDD",
+  "symbol_file": "parts/LTC2851xDD/LTC2851xDD.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:14.984Z"
+}

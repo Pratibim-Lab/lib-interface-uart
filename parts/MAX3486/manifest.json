@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/MAX3486:MAX3486",
+  "name": "MAX3486",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/MAX3486.kicad_sym",
+  "description": "True RS-485/RS-422, 2.5Mbps, Slew-Rate Limited, with low-power shutdown, with receiver/driver enable, 32 receiver drive capacitity, DIP-8 and SOIC-8",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX3483-MAX3491.pdf",
+  "keywords": "RS-485 RS-422 UART line-driver transceiver",
+  "footprint": "",
+  "extends": "MAX481E",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/MAX3486/",
+  "part_path": "parts/MAX3486",
+  "symbol_file": "parts/MAX3486/MAX3486.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:15.169Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/SP3481EN:SP3481EN",
+  "name": "SP3481EN",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/SP3481EN.kicad_sym",
+  "description": "Industrial 3.3V Low Power Half-Duplex RS-485 Transceiver 10Mbps, SOIC-8",
+  "datasheet": "http://www.icbase.com/pdf/SPX/SPX00480106.pdf",
+  "keywords": "Low Power Half-Duplex RS-485 Transceiver 10Mbps",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "SP3481CN",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/SP3481EN/",
+  "part_path": "parts/SP3481EN",
+  "symbol_file": "parts/SP3481EN/SP3481EN.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:15.395Z"
+}

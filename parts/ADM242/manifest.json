@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/ADM242:ADM242",
+  "name": "ADM242",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/ADM242.kicad_sym",
+  "description": "Dual RS232 driver/receiver, 5V supply, 200kb/s, separate shutdown/enable pins",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADM222_232A_242.pdf",
+  "keywords": "rs232 uart transceiver",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/ADM242/",
+  "part_path": "parts/ADM242",
+  "symbol_file": "parts/ADM242/ADM242.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:14.817Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/ADM205:ADM205",
+  "name": "ADM205",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/ADM205.kicad_sym",
+  "description": "0.1 μF, 5V powered CMOS RS-232 120kb/s transceiver with 5 drivers and 5 receivers (tx/rx: 5/5), shutdown / enable pins, DIP-24 (600 mil)",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/obsolete-data-sheets/17659925ADM205.PDF",
+  "keywords": "UART RS232 Obsolete",
+  "footprint": "Package_DIP:DIP-24_W15.24mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/ADM205/",
+  "part_path": "parts/ADM205",
+  "symbol_file": "parts/ADM205/ADM205.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:14.758Z"
+}

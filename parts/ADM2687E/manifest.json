@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/ADM2687E:ADM2687E",
+  "name": "ADM2687E",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/ADM2687E.kicad_sym",
+  "description": "Isolated RS485/RS422 Transceiver, Integrated Isolated DC-DC Converter, 500kbps, SOIC-16W",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADM2682E_2687E.pdf",
+  "keywords": "RS485 Transceiver, RS422 Transceiver, Isopower",
+  "footprint": "Package_SO:SOIC-16W_7.5x12.8mm_P1.27mm",
+  "extends": "ADM2682E",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/ADM2687E/",
+  "part_path": "parts/ADM2687E",
+  "symbol_file": "parts/ADM2687E/ADM2687E.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:14.850Z"
+}

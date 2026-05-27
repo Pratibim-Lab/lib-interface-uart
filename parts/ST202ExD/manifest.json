@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/ST202ExD:ST202ExD",
+  "name": "ST202ExD",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/ST202ExD.kicad_sym",
+  "description": "+/-15 kV ESD-protected 5V powered RS-232 dual transceiver (tx/rx: 2/2), 230kbps, 0.1uF capacitors operation, SOIC-16",
+  "datasheet": "https://www.st.com/resource/en/datasheet/st202eb.pdf",
+  "keywords": "UART RS232",
+  "footprint": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",
+  "extends": "MAX232",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/ST202ExD/",
+  "part_path": "parts/ST202ExD",
+  "symbol_file": "parts/ST202ExD/ST202ExD.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:15.437Z"
+}

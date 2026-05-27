@@ -1,0 +1,17 @@
+{
+  "id": "Interface_UART/LT1791xN8:LT1791xN8",
+  "name": "LT1791xN8",
+  "library": "Interface_UART",
+  "file": "Interface_UART.kicad_symdir/LT1791xN8.kicad_sym",
+  "description": "RS-485, RS-422 Full duplex 250kbps transceiver, DIP-14",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/285012fe.pdf",
+  "keywords": "RS485 RS422 transceiver full duplex",
+  "footprint": "Package_DIP:DIP-14_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-uart@master/parts/LT1791xN8/",
+  "part_path": "parts/LT1791xN8",
+  "symbol_file": "parts/LT1791xN8/LT1791xN8.kicad_sym",
+  "source_library": "Interface_UART.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:14.966Z"
+}
